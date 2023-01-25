@@ -16,6 +16,7 @@
 
 * {
   scroll-behavior: smooth;
+  border: red 1px solid;
 }
 
 .text-gradient {

@@ -6,9 +6,6 @@ import {
   shield,  star,
 } from "../assets";
 
-// afr test - borrar
-// console.log(people01);
-
 export const navLinks = [
   {
     id: "home",
